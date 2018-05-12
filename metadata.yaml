@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '35920'
     url: http://www.gutenberg.org/2009/agents/35920
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32572#Hans-Andersen-s-Fairy-Tales.-Second-Series
 gutenberg_issued: '2010-05-28'
 gutenberg_type: Text
 identifiers:
